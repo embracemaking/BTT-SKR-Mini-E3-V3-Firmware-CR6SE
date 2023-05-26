@@ -16,8 +16,9 @@ Pre-compiled .bin file accomodates the following modifications:
 * BTT TFT35 V3 touchscreen
 * CR-touch ABL sensor
 * LGX Lite direct drive extruder
-* BTT Relay V1.2.
 * Neopixel Jewel RGBW https://www.adafruit.com/product/2860
+* Original Creality thermistor and hotend
+* Creality filament runout sensor
 
 Wiring diagrams here:
 
@@ -29,7 +30,7 @@ The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR-6 SE can be found
 
 PrusaSlicer profile for the CR-6 SE X here:
 
-* https://embracemaking.com/blogs/resources/cr10-smart-x-prusaslicer-configuration
+*
 
 ## **! PLEASE READ !**
 
