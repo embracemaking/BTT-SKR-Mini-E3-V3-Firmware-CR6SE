@@ -31,6 +31,7 @@ The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR-6 SE can be found
 PrusaSlicer profile for the CR-6 SE X here:
 
 *
+* NOTE: For the filament runout detection sensor to work with files being printed from the TFT Touch screen, you MUST put M75 in the start gcode, and M77 in the end gcode!!
 
 ## **! PLEASE READ !**
 
