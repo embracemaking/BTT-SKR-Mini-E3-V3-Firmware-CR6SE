@@ -5,7 +5,7 @@ Repository for BTT SKR Mini E3 V3 firmware for the CR-6 SE mainboard upgrade mad
 
 Print head parts for the CR-6 SE to enable mounting of the CR Touch module:
 
-* 
+* https://embracemaking.com/products/creality-cr6-se-cr-touch-lgx-lite-4020-cooling-fan-conversion
 
 Video showing the entire installation of all upgrades and mainboard on a CR-6 SE:
 
