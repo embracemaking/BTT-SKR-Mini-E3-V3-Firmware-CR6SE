@@ -9,7 +9,7 @@ Print head parts for the CR-6 SE to enable mounting of the CR Touch module:
 
 Video showing the entire installation of all upgrades and mainboard on a CR-6 SE:
 
-* 
+* https://youtu.be/pSN8kqPHHuU
 
 Pre-compiled .bin file accomodates the following modifications:
 
@@ -26,11 +26,11 @@ Wiring diagrams here:
 
 The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR-6 SE can be found here:
 
-*
+* https://www.printables.com/model/490418-cr-6-se-x-skr-mini-e3-v3-mounts-and-btt-tft35-v3-c
 
 PrusaSlicer profile for the CR-6 SE X here:
 
-*
+* https://embracemaking.com/blogs/resources/cr-6-se-x-prusaslicer-configuration
 * NOTE: For the filament runout detection sensor to work with files being printed from the TFT Touch screen, you MUST put M75 in the start gcode, and M77 in the end gcode!!
 
 ## **! PLEASE READ !**
